@@ -1,4 +1,5 @@
 # Text Clustering on News Dataset
+In this notebook we use NLP methods and kernel PCA to build a clustering model
 
 [Dataset on kaggle](https://www.kaggle.com/datasets/narendrageek/reuters21578-multilabel-classification-news)
 
